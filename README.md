@@ -24,7 +24,7 @@ cd react-firebase-login
 npm install
 ```
 
-### 3. Set up Firecase
+### 3. Set up Firebase
 
 - Go to https://console.firebase.google.com/
 - Create a new project
