@@ -32,7 +32,7 @@ npm install
 - Create a Web App and copy your config
 - Replace the config in firebase.js with your own
 
-### 2. Run the app
+### 4. Run the app
 
 ```bash
 npm start
