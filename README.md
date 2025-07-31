@@ -2,6 +2,12 @@
 
 A simple and responsive login/signup dashboard built with **React**, **Firebase Authentication**, and **Material UI**.
 
+<img width="1534" height="823" alt="image" src="https://github.com/user-attachments/assets/4e8eb61d-de94-4b29-8326-e8161a477bcd" />
+<img width="970" height="793" alt="image" src="https://github.com/user-attachments/assets/21328f9b-facc-43b7-a5c8-8c80f7f80c09" />
+<img width="1532" height="856" alt="image" src="https://github.com/user-attachments/assets/3066683e-0e45-450e-98c4-3655d4240828" />
+
+
+
 ## ✨ Features
 
 - 🔐 User authentication with Firebase (Email & Password)
